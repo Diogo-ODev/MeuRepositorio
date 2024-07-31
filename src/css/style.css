@@ -1,0 +1,49 @@
+
+.cabecalho{
+    font-family: 'Outfit', sans serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.botoes{
+    display: flex;
+    align-items: center;
+}
+.Email{
+    padding: 16px;
+}
+.Instagram{
+    padding: 16px;
+}
+.linkedin{
+    padding: 16px;
+}
+.GitHub{
+    padding: 16px;
+}
+
+.imgInstagram{
+    height: 24px;
+}
+.imgEmail{
+    height: 24px;
+}
+.imglinkedin{
+    height: 24px;
+}
+.imgGitHub{
+    height: 24px;
+}
+
+.apresentacao{
+    display: flex;
+    height: 90px;
+}
+.nome{
+    font-size: xx-large;
+}
+.imgapresentacao{
+    height: 1920px;
+    width: 920px;
+}
